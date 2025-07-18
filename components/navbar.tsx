@@ -63,8 +63,8 @@ export function Navbar() {
   };
 
   const categories = [
-    { name: 'Men', href: '/category/men\'s clothing' },
-    { name: 'Women', href: '/category/women\'s clothing' },
+    { name: 'Men', href: "/category/men's clothing" },
+    { name: 'Women', href: "/category/women's clothing" },
     { name: 'Electronics', href: '/category/electronics' },
     { name: 'Jewelry', href: '/category/jewelery' },
   ];
